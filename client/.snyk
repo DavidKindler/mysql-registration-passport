@@ -5,10 +5,11 @@ ignore: {}
 patch:
   SNYK-JS-LODASH-450202:
     - react-scripts > eslint > lodash:
-        patched: '2020-02-21T06:02:55.792Z'
+        patched: '2020-02-21T06:05:04.995Z'
     - react-scripts > eslint-plugin-import > lodash:
-        patched: '2020-02-21T06:02:55.792Z'
+        patched: '2020-02-21T06:05:04.995Z'
     - react-scripts > eslint > inquirer > lodash:
-        patched: '2020-02-21T06:02:55.792Z'
+        patched: '2020-02-21T06:05:04.995Z'
     - react-scripts > eslint > table > lodash:
-        patched: '2020-02-21T06:02:55.792Z'
+        patched: '2020-02-21T06:05:04.995Z'
+
