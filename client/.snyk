@@ -12,3 +12,4 @@ patch:
         patched: '2020-02-21T06:05:04.995Z'
     - react-scripts > eslint > table > lodash:
         patched: '2020-02-21T06:05:04.995Z'
+
